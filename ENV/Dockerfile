@@ -1,5 +1,5 @@
 FROM almalinux:9
-LABEL course="DevOps" \
+ENV course="DevOps" \
       duration="120hrs" \
       trainer="siva" 
 
